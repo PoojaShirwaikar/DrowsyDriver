@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tensorflow-android-1.5.0-rc1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gradleBuild/intermediates/exploded-aar/org.tensorflow/tensorflow-android/1.5.0-rc1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/gradleBuild/intermediates/exploded-aar/org.tensorflow/tensorflow-android/1.5.0-rc1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
